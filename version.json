@@ -2,8 +2,9 @@
   "versionName": "1.5",
   "versionCode": 9,
   "apkUrl": "https://github.com/KrishnaUneecops/CheckUpdateAppLMS/releases/download/v1.5/app-release-v1.5.apk",
-  "forceUpdate": true
+  "forceUpdate": false
 }
+
 
 
 
